@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório da **Pokédex**! Aqui você encontrará uma aplicação web interativa que utiliza **HTML**, **CSS**, **JavaScript** e a **PokeAPI** para trazer informações detalhadas sobre seus Pokémon favoritos. 🚀
 
-![Preview da Pokédex](https://github.com/mateus-henriquee/pokedexPokemon/blob/main/preview.png)  
+![Preview da Pokédex](images/preview.png)  
 *(Imagem de preview do projeto)*
 
 ---
