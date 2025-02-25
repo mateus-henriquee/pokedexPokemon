@@ -70,11 +70,20 @@ Contribuições são sempre bem-vindas! Se você quiser melhorar este projeto, s
 
 - Faça um fork do repositório.
 
-- Crie uma branch para sua feature (git checkout -b feature/nova-feature).
+- Crie uma branch para sua feature:
+  ```bash
+  git checkout -b feature/nova-feature
+  ```
 
-- Faça o commit das suas alterações (git commit -m 'Adiciona nova feature').
+- Faça o commit das suas alterações :
+```bash
+git commit -m 'Adiciona nova feature'
+```
 
-- Faça o push para a branch (git push origin feature/nova-feature).
+- Faça o push para a branch 
+```bash
+git push origin feature/nova-feature
+```
 
 - Abra um Pull Request.
 
