@@ -60,6 +60,9 @@ pokedexPokemon/
 |   ├── pokedex.png
 |   └── preview.png
 |
+├── js
+|   └── script.js
+|
 ├── README.md           # Aquivo README
 └── index.html         # Página HTML
 ```
